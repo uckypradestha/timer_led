@@ -21,9 +21,9 @@
 
 <p>Kecepatan timer dapat diperlambat menggunakan nilai prescaler. Dengan mengubah nilai prescaler, kita dapat mengatur lama waktu perhitungan timer.</p>
 
+<h2>Konfigurasi Pin</h2>
 <p>Berikut adalah contoh penerapan Timer1 menggunakan LED</p>
-
-<h2>Konfigurasi Pin<h2>
+<img width="1536" height="632" alt="timer" src="https://github.com/user-attachments/assets/8f56ab94-7fef-40f5-b510-b21cc4efc485" />
 <ul>
  <li>LED 1 ----- Pin 5</li>
  <li>LED 2 ----- Pin 11</li>
