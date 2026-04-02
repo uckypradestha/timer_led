@@ -28,3 +28,9 @@
  <li>LED 1 ----- Pin 5</li>
  <li>LED 2 ----- Pin 11</li>
 </ul>
+
+# ⛓️ Implementasi Pada Arduino
+[![timer_interrupt-Cover](https://github.com/user-attachments/assets/e76fe29b-0ab2-46ca-96bf-5166aa29286a)](https://youtu.be/DQF63iY6OwM)
+
+#
+![banner](https://github.com/user-attachments/assets/e5564fc6-14e7-4ca8-b6d6-2b2a05f725a5)
